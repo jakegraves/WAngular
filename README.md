@@ -1,5 +1,4 @@
 WAngular v1.0
-
 ===========
 
 [![Build Status](https://travis-ci.org/jakegraves/WAngular.png?branch=master)](https://travis-ci.org/jakegraves/WAngular) [![Coverage Status](https://coveralls.io/repos/jakegraves/WAngular/badge.png)](https://coveralls.io/r/jakegraves/WAngular)
